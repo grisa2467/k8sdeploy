@@ -1,2 +1,2 @@
-# k8sdeploy
-repo for test deploy to k8s
+# Jenkins-integration-with-kubernetes
+CI/CD Pipeline for kubernetes deployment using Jenkins
